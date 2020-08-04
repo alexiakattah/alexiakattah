@@ -1,16 +1,15 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**alexiakattah/alexiakattah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Alexia Kattah
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá pessoal 👋
+Sou apaixonada por resolver problemas utilizando a programação.
+FullStack Developer :computer:
+
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: tecnologias, família e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AlexiaKattah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexiakattah/)](https://www.linkedin.com/in/alexiakattah/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-alexiakattah@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexiakattah@gmail.com)](mailto:alexiakattah@gmail.com)
