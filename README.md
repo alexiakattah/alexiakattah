@@ -5,8 +5,11 @@
 
 ## Olá pessoal 👋
 Sou apaixonada por resolver problemas utilizando a programação.
+<br />
 FullStack Developer :computer:
+<br />
 Engenheira de Computação
+<br />
 24 anos
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e backend utilizando Nodejs
@@ -22,7 +25,6 @@ Engenheira de Computação
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" />
  
 </div>
  
