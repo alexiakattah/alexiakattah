@@ -6,11 +6,11 @@
 ## Olá pessoal 👋
 Sou apaixonada por resolver problemas utilizando a programação.
 <br />
-FullStack Developer :computer:
+Software Developer :computer:
 <br />
 Engenheira de Computação
 <br />
-24 anos
+
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e backend utilizando Nodejs
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
