@@ -12,7 +12,7 @@ Engenheira de Computação
 <br />
 
 
- <br/> :purple_heart: &nbsp; Desenvolvedora de software desde 2015, hoje atuo como CTO da OQ Digital, startup de tecnologia na área canal de aquisição de novos clientes. Lidero uma equipe de desenvolvedores, melhorando o software e entregando o melhor produto para os clientes. Atualmente, sou desenvolvedora fullstack web e também mobile, trabalhando com JavaScript. Há um pouco mais de um ano compartilho dicas de tecnologia em minhas redes sociais e ajudo pessoas a entrarem no mercado como programadores.
+ <br/> :purple_heart: &nbsp; Desenvolvedora de software desde 2015, hoje atuo como CTO da OQ Digital, startup de tecnologia na área de aquisição de novos clientes. Lidero uma equipe de desenvolvedores, melhorando o software e entregando o melhor produto para os clientes. Atualmente, sou desenvolvedora fullstack web e também mobile, trabalhando com JavaScript. Há um pouco mais de um ano compartilho dicas de tecnologia em minhas redes sociais e ajudo pessoas a entrarem no mercado como programadores.
  <br />
 Seja muito bem vindo ao meu Github!
 
@@ -35,7 +35,6 @@ Seja muito bem vindo ao meu Github!
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  
  
  
