@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/alexiakattah/alexiakattah/blob/master/banner2.png">
+<img width="auto" src="https://github.com/alexiakattah/alexiakattah/blob/master/banner.png">
 
 
 # Alexia Kattah
