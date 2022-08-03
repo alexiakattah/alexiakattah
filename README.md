@@ -51,6 +51,9 @@ Seja muito bem vindo ao meu Github!
  <a href="https://www.instagram.com/alexiakattah"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
  <a href="contato@alexiakattah.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/alexiakattah/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.youtube.com/channel/UCOEbxH89cnNGEXHPwGkUPqA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+ 
+ 
 </div>
 
 ## Visitas no pefil - Atividade
