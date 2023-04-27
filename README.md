@@ -12,7 +12,7 @@ Engenheira de Computação
 <br />
 
 
- <br/> :purple_heart: &nbsp; Desenvolvedora de software desde 2015, hoje atuo como CTO da OQ Digital, startup de tecnologia na área de aquisição de novos clientes. Lidero uma equipe de desenvolvedores, melhorando o software e entregando o melhor produto para os clientes. Atualmente, sou desenvolvedora fullstack web e também mobile, trabalhando com JavaScript. Há um pouco mais de um ano compartilho dicas de tecnologia em minhas redes sociais e ajudo pessoas a entrarem no mercado como programadores.
+ <br/> :purple_heart: &nbsp; Desenvolvedora de software desde 2015. Atualmente, sou desenvolvedora fullstack web e também mobile, trabalhando com JavaScript. Há um pouco mais de um ano compartilho dicas de tecnologia em minhas redes sociais e ajudo pessoas a entrarem no mercado como programadores.
  <br />
 Seja muito bem vindo ao meu Github!
 
