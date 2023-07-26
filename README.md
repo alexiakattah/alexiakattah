@@ -5,13 +5,13 @@
 
 ## Olá pessoal 👋
 🎓 Meu nome é Alexia Kattah, sou Engenheira da Computação, Amazon Cloud Certified e Senior Software Engineer. 
-<br />
+
 👩🏻‍💻 Sou desenvolvedora de software desde 2015, já atuei como CTO, liderei equipes e programei diversos sistemas web ao longo da minha carreira.
-<br />
-🏆 Atualmente sou desenvolvedora FullStack e também Mobile autando no JavaScript, sou CTO e instrutora na Hero Code
-<br />
+
+🏆 Atualmente sou desenvolvedora FullStack e também Mobile autando no JavaScript, sou CTO e instrutora na [Hero Code](https://herocode.com.br)
+
 🎯 Meu objetivo é conseguir atingir o máximo de pessoas possível com meus conteúdos e treinamentos e conseguir transformar vidas através da programação 
-<br />
+
 💜 Seja muito bem vindo ao meu Github!
 
 ## Hey there 👋
@@ -40,7 +40,7 @@
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
- 
+ <br />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
