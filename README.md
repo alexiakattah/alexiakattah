@@ -4,17 +4,26 @@
 # Alexia Kattah
 
 ## Olá pessoal 👋
-Sou apaixonada por resolver problemas utilizando a programação.
+🎓 Meu nome é Alexia Kattah, sou Engenheira da Computação, Amazon Cloud Certified e Senior Software Engineer. 
 <br />
-Software Developer :computer:
+👩🏻‍💻 Sou desenvolvedora de software desde 2015, já atuei como CTO, liderei equipes e programei diversos sistemas web ao longo da minha carreira.
 <br />
-Engenheira de Computação
+🏆 Atualmente sou desenvolvedora FullStack e também Mobile autando no JavaScript, sou CTO e instrutora na Hero Code
 <br />
+🎯 Meu objetivo é conseguir atingir o máximo de pessoas possível com meus conteúdos e treinamentos e conseguir transformar vidas através da programação 
+<br />
+💜 Seja muito bem vindo ao meu Github!
 
+## Hey there 👋
+🎓 My name is Alexia Kattah, I'm a Computer Engineer, Amazon Cloud Certified and Senior Software Engineer.
 
- <br/> :purple_heart: &nbsp; Desenvolvedora de software desde 2015. Atualmente, sou desenvolvedora fullstack web e também mobile, trabalhando com JavaScript. Há um pouco mais de um ano compartilho dicas de tecnologia em minhas redes sociais e ajudo pessoas a entrarem no mercado como programadores.
- <br />
-Seja muito bem vindo ao meu Github!
+👩🏻‍💻 I've been a software developer since 2015, I've acted as CTO, led teams and programmed several web systems throughout my career.
+
+🏆 I'm currently a FullStack developer and also a Mobile developer using JavaScript, I'm a CTO and instructor at [Hero Code](https://herocode.com.br)
+
+🎯 My goal is to reach as many people as possible with my content and training and transform lives through programming
+
+💜 Welcome to my Github!
 
   
 ## MY SKILLS
@@ -43,27 +52,14 @@ Seja muito bem vindo ao meu Github!
  
  
 </div>
- 
-##
+
 
 <div>
 
  <a href="https://www.instagram.com/alexiakattah"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
  <a href="contato@alexiakattah.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/alexiakattah/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://www.youtube.com/channel/UCOEbxH89cnNGEXHPwGkUPqA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+ <a href="https://www.youtube.com/@herocodebr"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
  
  
 </div>
-
-## Visitas no pefil - Atividade
-
-<!-- visitors count  -->
-
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/alexiakattah/count.svg" />  
-</p>
-
-<!-- github workflow  -->
-
- ![github contribution grid snake animation](https://raw.githubusercontent.com/alexiakattah/alexiakattah/output/github-contribution-grid-snake.svg)
