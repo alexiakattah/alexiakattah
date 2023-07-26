@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/alexiakattah/alexiakattah/blob/master/banner3.png">
+<img width="auto" src="https://github.com/HeroCodeBR/.github/blob/main/GITHUB.png">
 
 
 # Alexia Kattah
