@@ -8,7 +8,7 @@
 
 👩🏻‍💻 Sou desenvolvedora de software desde 2015, já atuei como CTO, liderei equipes e programei diversos sistemas web ao longo da minha carreira.
 
-🏆 Atualmente sou desenvolvedora FullStack e também Mobile autando no JavaScript, sou CTO e instrutora na [Hero Code](https://herocode.com.br)
+🏆 Atualmente sou desenvolvedora FullStack e também Mobile autando no JavaScript e instrutora na [Hero Code](https://herocode.com.br)
 
 🎯 Meu objetivo é conseguir atingir o máximo de pessoas possível com meus conteúdos e treinamentos e conseguir transformar vidas através da programação 
 
@@ -19,7 +19,7 @@
 
 👩🏻‍💻 I've been a software developer since 2015, I've acted as CTO, led teams and programmed several web systems throughout my career.
 
-🏆 I'm currently a FullStack developer and also a Mobile developer using JavaScript, I'm a CTO and instructor at [Hero Code](https://herocode.com.br)
+🏆 I'm currently a FullStack developer and also a Mobile developer using JavaScript and instructor at [Hero Code](https://herocode.com.br)
 
 🎯 My goal is to reach as many people as possible with my content and training and transform lives through programming
 
