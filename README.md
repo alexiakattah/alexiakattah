@@ -1,4 +1,3 @@
-<img width="auto" src="https://github.com/HeroCodeBR/.github/blob/main/GITHUB.png">
 
 
 # Alexia Kattah
