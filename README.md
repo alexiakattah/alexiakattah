@@ -7,7 +7,7 @@
 
 👩🏻‍💻 Sou desenvolvedora de software desde 2015, já atuei como CTO, liderei equipes e programei diversos sistemas web ao longo da minha carreira.
 
-🏆 Atualmente sou Senior Software Engineer na [Khipo](https://khipo.ai/) e instrutora na [Hero Code](https://herocode.com.br)
+🏆 Atualmente sou Software Engineer na em uma empresa na gringa 🇺🇸 e instrutora na [Hero Code](https://herocode.com.br)
 
 🎯 Meu objetivo é conseguir atingir o máximo de pessoas possível com meus conteúdos e treinamentos e conseguir transformar vidas através da programação 
 
