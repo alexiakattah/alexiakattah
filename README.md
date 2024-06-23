@@ -18,7 +18,7 @@
 
 👩🏻‍💻 I've been a software developer since 2015, I've acted as CTO, led teams and programmed several web systems throughout my career.
 
-🏆 I'm currently a FullStack developer in [Khipo](https://khipo.ai/) and instructor at [Hero Code](https://herocode.com.br)
+🏆 I'm currently a FullStack developer in an USA company and instructor at [Hero Code](https://herocode.com.br)
 
 🎯 My goal is to reach as many people as possible with my content and training and transform lives through programming
 
